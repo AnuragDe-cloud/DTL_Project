@@ -5,7 +5,7 @@ int main() {
 
     while (1) {
         printf("Simple Calculator\n");
-        printf("1. Addition\n");
+        printf("1. AADDITIOON\n");
         printf("2. Subtraction\n");
         printf("3. Multiplication\n");
         printf("4. Division\n");
