@@ -25,13 +25,13 @@ int main() {
 
         switch (choice) {
             case 1:
-                printf("Result: %d\n", a + b);
+                printf("Addition Result: %d\n", a + b);
                 break;
             case 2:
-                printf("Result: %d\n", a - b);
+                printf("Subtraction Result: %d\n", a - b);
                 break;
             case 3:
-                printf("Result: %d\n", a * b);
+                printf("Multiplication Result: %d\n", a * b);
                 break;
             case 4:
                 if (b != 0)
