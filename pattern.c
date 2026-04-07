@@ -2,7 +2,7 @@
 
 int main() {
     int i, j;
-
+    printf("hello");
     printf("=== Pattern ===\n\n");
 
     for (i = 1; i <= 5; i++) {
