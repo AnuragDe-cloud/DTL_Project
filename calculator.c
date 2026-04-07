@@ -10,6 +10,7 @@ int main() {
         printf("3. Multiplication\n");
         printf("4. Division\n");
         printf("5. Exit\n");
+        printf("nice well done bum");
 
         printf("Enter your choice: ");
         scanf("%d", &choice);
