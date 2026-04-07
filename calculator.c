@@ -3,6 +3,7 @@
 int main() {
     int a, b, choice;
     printf("Welcome to this simple calculator project");
+    printf("Hello world");
 
     while (1) {
         printf("Simple Calculator\n");
